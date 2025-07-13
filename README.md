@@ -1,1 +1,1 @@
-#flask_steam_prices_api
+# flask_steam_prices_api
